@@ -1,0 +1,19 @@
+# Deep Learning Models
+results/
+checkpoints/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Logs
+logs/
+runs/
+
+# Datasets
+*.csv
+*.zip
+
+
+# Python cache
+__pycache__/
